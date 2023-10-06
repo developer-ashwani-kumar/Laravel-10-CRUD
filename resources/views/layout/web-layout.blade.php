@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <title>Laravel 9 CRUD Application - buildwithphp.com</title>
+    <title>Laravel 8 CRUD Application - buildwithphp.com</title>
   </head>
   <body>
 

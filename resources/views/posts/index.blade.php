@@ -14,7 +14,7 @@
 	<div class="col-lg-2"></div>
 	<div class="col-lg-8 my-4">
 		<div class="float-start">
-			<h4>Laravel 9 CRUD Application</h4>
+			<h4>Laravel 8 CRUD Application</h4>
 		</div>
 		<div class="float-end">
 			<a class="btn btn-sm btn-success" href="{{ route('posts.create') }}"><i class="fa fa-plus"></i> Add New Post</a>
